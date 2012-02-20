@@ -7,6 +7,10 @@ Put together for a presentation I'm doing on CincyPy titled
 It's meant to showcase the wide variety of choice that we 
 have in making python faster...
 
+Check out benchmark.py for hints on how to run everything.
+
+Sorry for sparse documentation, hopefully more to come.
+
 This does not include all options. SwiG is not included,
 and I couldn't get berp or shedskin to work properly. 
 Also unladen swallow is acting up on my install, not
