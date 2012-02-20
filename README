@@ -1,0 +1,15 @@
+Blaine Booher
+Feb 20 2012
+
+Put together for a presentation I'm doing on CincyPy titled
+"Optimizing Python".
+
+It's meant to showcase the wide variety of choice that we 
+have in making python faster...
+
+This does not include all options. SwiG is not included,
+and I couldn't get berp or shedskin to work properly. 
+Also unladen swallow is acting up on my install, not
+sure why.
+
+-Blaine bgbooher@gmail.com
