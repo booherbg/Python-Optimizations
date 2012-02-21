@@ -8,6 +8,11 @@ It's meant to showcase the wide variety of choice that we
 have in making python faster...
 
 Check out benchmark.py for hints on how to run everything.
+There is a branch titled "outer_loop" that shows what 
+happens when you take the 1,000,000 loop from inside Fib()
+and move it to the calling routine. This helps some, hurts
+others, and surprisingly makes unladen swallow actually
+work...
 
 Sorry for sparse documentation, hopefully more to come.
 
