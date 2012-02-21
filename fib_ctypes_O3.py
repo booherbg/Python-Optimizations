@@ -8,5 +8,6 @@ def fib(n):
 	return so.fib(n)
 	
 if __name__ == "__main__":
-	print fib(1234567890)
+    for i in xrange(1000000):
+        fib(1234567890)
 	
